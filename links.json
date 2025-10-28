@@ -2,25 +2,24 @@
   {
     "name": "Global Poker",
     "url": "https://example.com/ref/globalpoker?affid=YOUR_ID",
-    "desc": "Daily bonus + sweepstakes poker.",
-    "color": "#3b82f6"
+    "desc": "Daily bonus + sweepstakes poker."
   },
   {
     "name": "Rolling Riches",
     "url": "https://example.com/ref/rollingriches?affid=YOUR_ID",
-    "desc": "Claim bonus every 6 hours.",
-    "color": "#8b5cf6"
+    "desc": "Claim bonus every 6 hours."
   },
   {
     "name": "Zula",
-    "url": "https://example.com/ref/zula?affid=YOUR_ID",
-    "desc": "Daily coins with streaks.",
-    "color": "#22c55e"
+    "url": "https://www.zulacasino.com/signup/ffdb1052-a2f7-4f14-910f-86bd45c62441",
+    "desc": "Daily coins with streaks."
+    
   },
   {
     "name": "Fortune Coins",
     "url": "https://example.com/ref/fortunecoins?affid=YOUR_ID",
-    "desc": "Daily free coins \u2014 low friction.",
-    "color": "#f59e0b"
+    "desc": "Daily free coins \u2014 low friction."
+
+    
   }
 ]
