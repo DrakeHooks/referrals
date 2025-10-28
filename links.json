@@ -1,25 +1,97 @@
 [
   {
     "name": "Global Poker",
-    "url": "https://example.com/ref/globalpoker?affid=YOUR_ID",
+    "url": "https://globalpoker.com",
     "desc": "Daily bonus + sweepstakes poker."
   },
   {
     "name": "Rolling Riches",
-    "url": "https://example.com/ref/rollingriches?affid=YOUR_ID",
+    "url": "https://rollingriches.com",
     "desc": "Claim bonus every 6 hours."
+  },
+  {
+    "name": "JefeBet",
+    "url": "https://jefebet.com",
+    "desc": "6\u2011hourly bonus; quick claim."
   },
   {
     "name": "Zula",
     "url": "https://www.zulacasino.com/signup/ffdb1052-a2f7-4f14-910f-86bd45c62441",
     "desc": "Daily coins with streaks."
-    
   },
   {
     "name": "Fortune Coins",
-    "url": "https://example.com/ref/fortunecoins?affid=YOUR_ID",
+    "url": "https://fortunecoins.com",
     "desc": "Daily free coins \u2014 low friction."
-
-    
+  },
+  {
+    "name": "Sportzino",
+    "url": "https://sportzino.com",
+    "desc": "Daily bonus; sports-themed casino."
+  },
+  {
+    "name": "Luckybird",
+    "url": "https://luckybird.com",
+    "desc": "Daily bonus \u2014 increases with VIP."
+  },
+  {
+    "name": "Crown Coins",
+    "url": "https://crowncoins.com",
+    "desc": "Varies $0.00\u2013$2.00/day \u2014 Social Auth WIP."
+  },
+  {
+    "name": "Modo",
+    "url": "https://modo.us",
+    "desc": "Approx. $0.30\u2013$1.00/day."
+  },
+  {
+    "name": "Stake",
+    "url": "https://stake.com",
+    "desc": "Daily bonus \u2014 auto claim in development."
+  },
+  {
+    "name": "Goldnluck",
+    "url": "https://goldnluck.com",
+    "desc": "Listed daily bonus site."
+  },
+  {
+    "name": "Luckyland",
+    "url": "https://luckyland.com",
+    "desc": "Daily bonus; generic link."
+  },
+  {
+    "name": "Chumba",
+    "url": "https://chumbacasino.com",
+    "desc": "$0.25\u2013$3.00 daily."
+  },
+  {
+    "name": "Chanced",
+    "url": "https://chanced.com",
+    "desc": "Daily bonus; generic link."
+  },
+  {
+    "name": "iCasino",
+    "url": "https://icasino.com",
+    "desc": "In development."
+  },
+  {
+    "name": "RealPrize",
+    "url": "https://realprize.com",
+    "desc": "In development."
+  },
+  {
+    "name": "Spin Pals",
+    "url": "https://spinpals.com",
+    "desc": "In development."
+  },
+  {
+    "name": "Dara Casino",
+    "url": "https://daracasino.com",
+    "desc": "In development."
+  },
+  {
+    "name": "Pulsz",
+    "url": "https://pulsz.com",
+    "desc": "Varies $0.20\u2013$3.00/day."
   }
 ]
